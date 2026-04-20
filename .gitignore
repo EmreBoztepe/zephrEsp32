@@ -1,0 +1,14 @@
+# Derleme (Build) çıktıları
+build/
+
+# Python sanal ortamı (eğer proje içindeyse)
+.venv/
+
+# VS Code ayarları
+.vscode/
+
+# Sadece belirli bir dosya
+secret_keys.h
+
+# Belirli bir uzantıya sahip tüm dosyalar
+*.log
