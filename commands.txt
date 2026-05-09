@@ -1,0 +1,4 @@
+west build -p always -b esp32_devkitc/esp32/procpu -> building for my esp32 board..
+export ZEPHYR_BASE=~/zephyrproject/zephyr -> setting ZEPHYR_BASE variable to zephyr location for west envoirment.
+source /zephrproject/.venv/bin/activate
+west espressif monitor
